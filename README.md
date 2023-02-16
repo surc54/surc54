@@ -1,6 +1,6 @@
 ### Introducing the world's biggest mistake
 
-![Adithya Haridas](https://www.hadithya.com/assets/github_profile_banner.png)
+(its me!)
 
 <!--
 **surc54/surc54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
